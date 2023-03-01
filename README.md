@@ -8,3 +8,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiyun233&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiyun233&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jiyun233&theme=nord_bright)

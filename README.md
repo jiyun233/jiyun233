@@ -6,6 +6,4 @@
 <a href="https://github.com/jiyun233/CubeBase"><img src="https://img.shields.io/github/commit-activity/y/jiyun233/CubeBase"/></a>
 </p>
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=jiyun233)]()[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyun233)](https://github.com/jiyun233/github-readme-stats)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jiyun233&bg_color=F5F5FF&color=1E90FF&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/jiyun233/github-readme-activity-graph)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiyun233&theme=nord_bright)

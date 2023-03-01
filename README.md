@@ -6,6 +6,9 @@
 
 📧 **E-Mail:** [**`superstupid233@163.com`**](mailto:superstupid233@163.com)
 
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyun233&count_private=true&show_icons=true&bg_color=FFFFFF&layout=compact&langs_count=6" />
+</a>
 
 <p>
 <a href="https://space.bilibili.com/245830927"><img src="https://img.shields.io/static/v1?label=Space&message=Bilibili&color=blue"/></a>
@@ -13,6 +16,5 @@
 <a href="https://github.com/jiyun233/CubeBase"><img src="https://img.shields.io/github/commit-activity/y/jiyun233/CubeBase"/></a>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiyun233&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiyun233&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jiyun233&theme=nord_bright)

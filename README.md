@@ -4,11 +4,13 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=jiyun233&count_private=true&show_icons=true&bg_color=FFFFFF" />
 </a>
 
-# Welcome to jiyun233's github
+## Welcome to jiyun233's github
 
 **😉 这里是极云的主页！喵~**
 
 📧 **E-Mail:** [**`superstupid233@163.com`**](mailto:superstupid233@163.com)
+
+🐧 **QQ:** [**`3312268214`**](tencent://message/?uin=3312268214&Site=&Menu=yes)
 
 
 <p>

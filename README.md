@@ -12,7 +12,7 @@
 
 🐧 **QQ:** [**`3312268214`**](tencent://message/?uin=3312268214&Site=&Menu=yes)
 
-💬 **微信:** [**`HQCrystal114514`**]
+💬 **微信:** [**`HQCrystal114514`**]()
 
 <p>
 <a href="https://space.bilibili.com/245830927"><img src="https://img.shields.io/static/v1?label=Space&message=Bilibili&color=blue"/></a>

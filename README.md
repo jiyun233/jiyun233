@@ -4,7 +4,10 @@
 
 <p>
 <a href="https://space.bilibili.com/245830927"><img src="https://img.shields.io/static/v1?label=Space&message=Bilibili&color=blue"/></a>
- <a href="https://github.com/jiyun233/CubeBase"><img src="https://img.shields.io/github/last-commit/jiyun233/CubeBase"/></a>
+<a href="https://github.com/jiyun233/CubeBase"><img src="https://img.shields.io/github/last-commit/jiyun233/CubeBase"/></a>
+<a href="https://github.com/jiyun233/CubeBase"><img src="https://img.shields.io/github/commit-activity/y/jiyun233/CubeBase"/></a>
 </p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jiyun233&bg_color=F5F5DC&color=1E90FF&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/jiyun233/github-readme-activity-graph)
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=jiyun233)]()

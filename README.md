@@ -20,5 +20,4 @@
 <a href="https://github.com/jiyun233/CubeBase"><img src="https://img.shields.io/github/commit-activity/y/jiyun233/CubeBase"/></a>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiyun233&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jiyun233&theme=nord_bright)
+![Metrics](https://metrics.lecoq.io/jiyun?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)

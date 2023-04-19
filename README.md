@@ -22,5 +22,5 @@
 
 <a href="#">
   <img align="left" src="https://metrics.lecoq.io/jiyun233?template=classic" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyun233&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyun233&layout=compact" />
 </a>

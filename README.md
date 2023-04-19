@@ -20,6 +20,7 @@
 <a href="https://github.com/jiyun233/CubeBase"><img src="https://img.shields.io/github/commit-activity/y/jiyun233/CubeBase"/></a>
 </p>
 
-<p align="center">
-   <img src="https://metrics.lecoq.io/jiyun233?template=classic"/>
- </p>
+<a href="#">
+  <img align="left" src="https://metrics.lecoq.io/jiyun233?template=classic" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyun233&layout=compact" />
+</a>

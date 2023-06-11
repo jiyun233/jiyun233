@@ -25,4 +25,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyun233&layout=compact" />
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=jiyun233" />
 </a>
-[!image](https://github.com/jiyun233/jiyun233/blob/master/4BC615FAF8D501AB1B33585B7CCDB5ED.jpg)
+[!imega](4BC615FAF8D501AB1B33585B7CCDB5ED.jpg)

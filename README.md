@@ -21,7 +21,8 @@
 </p>
 
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyun233&layout=compact" />
+  <img align="left" src="https://count.getloli.com/get/@jiyun233" alt="rule34" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyun233&layout=compact" />
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=jiyun233" />
 </a>
 

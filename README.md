@@ -27,9 +27,11 @@
 <a href="https://github.com/jiyun233/CubeBase"><img src="https://img.shields.io/github/commit-activity/y/jiyun233/CubeBase"/></a>
 </p>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=16&duration=1&pause=1000&color=1D88F7&random=false&width=435&lines=%E5%92%B1%E7%9A%84%E4%B8%BB%E9%A1%B5%E5%B7%B2%E7%BB%8F%E8%A2%AB%E8%AE%BF%E9%97%AE%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E6%AC%A1%E4%BA%86%E5%91%A2%7C%EF%BD%A5%CF%89%EF%BD%A5%EF%BD%80)" alt="Typing SVG" />
+</a>
 
 <a href="#">
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=jiyun233" />
   <img align="right" src="https://count.getloli.com/get/@jiyun233" alt="rule34" />
 </a>
 

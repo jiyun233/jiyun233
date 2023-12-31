@@ -21,7 +21,6 @@
 </p>
 
 <a href="#">
-  <img align="left" src="https://metrics.lecoq.io/jiyun233?template=classic" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyun233&layout=compact" />
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=jiyun233" />
 </a>

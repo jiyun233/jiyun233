@@ -2,6 +2,8 @@
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=jiyun233&count_private=true&show_icons=true&bg_color=FFFFFF" />
+  <img align="right" src="https://count.getloli.com/get/@jiyun233" alt="rule34" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyun233&layout=compact" />
 </a>
 
 # jiyun233's GitHub o(〃'▽'〃)o
@@ -21,10 +23,6 @@
 </p>
 
 <a href="#">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=12&duration=1&pause=1000&random=false&width=435&lines=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE%E6%AC%A1%E6%95%B0" alt="Typing SVG" /></a>
-  <img align="left" src="https://count.getloli.com/get/@jiyun233" alt="rule34" />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=12&duration=1&pause=1000&random=false&width=435&lines=%E5%B8%B8%E7%94%A8%E8%AF%AD%E8%A8%80%E5%88%97%E8%A1%A8" alt="Typing SVG" /></a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyun233&layout=compact" />
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=jiyun233" />
 </a>
 

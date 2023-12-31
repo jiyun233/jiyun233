@@ -2,11 +2,14 @@
 
 <a href="#">
   <img align="right" src="https://count.getloli.com/get/@jiyun233" alt="rule34" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyun233&layout=compact" />
 </a>
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=jiyun233&count_private=true&show_icons=true&bg_color=FFFFFF" />
+</a>
+
+<a herf="#>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyun233&layout=compact" />
 </a>
 
 # jiyun233's GitHub o(〃'▽'〃)o

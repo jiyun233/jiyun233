@@ -5,10 +5,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyun233&layout=compact" />
 </a>
 
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jiyun233&count_private=true&show_icons=true&bg_color=FFFFFF" />
-</a>
-
 
 
 # jiyun233's GitHub o(〃'▽'〃)o
@@ -20,6 +16,10 @@
 🐧 **QQ:** [**`3312268214`**](tencent://message/?uin=3312268214&Site=&Menu=yes)
 
 💬 **微信:** [**`HQCrystal114514`**](tencent://message/?uin=3312268214&Site=&Menu=yes)
+
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jiyun233&count_private=true&show_icons=true&bg_color=FFFFFF" />
+</a>
 
 <p>
 <a href="https://space.bilibili.com/245830927"><img src="https://img.shields.io/static/v1?label=Space&message=Bilibili&color=blue"/></a>

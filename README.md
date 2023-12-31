@@ -6,6 +6,10 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyun233&layout=compact" />
 </a>
 
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jiyun233&count_private=true&show_icons=true&bg_color=FFFFFF" />
+</a>
+
 # jiyun233's GitHub o(〃'▽'〃)o
 
 **😉 这里是极云的主页！喵~**

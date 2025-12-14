@@ -6,7 +6,7 @@
 
 # jiyun233's GitHub o(〃'▽'〃)o
 
-**😉 这里是极云的主页！喵~**
+**😉 这里是极云的主页！**
 
 📧 **E-Mail:** [**`superstupid233@163.com`**](mailto:superstupid233@163.com)
 
@@ -20,8 +20,7 @@
 
 <p>
 <a href="https://space.bilibili.com/245830927"><img src="https://img.shields.io/static/v1?label=Space&message=Bilibili&color=blue"/></a>
-<a href="https://github.com/jiyun233/NyaEvent"><img src="https://img.shields.io/github/last-commit/jiyun233/NyaEvent"/></a>
-<a href="https://github.com/jiyun233/CubeBase"><img src="https://img.shields.io/github/commit-activity/y/jiyun233/CubeBase"/></a>
+<a href="https://github.com/jiyun233/Sakiko-Document"><img src="https://img.shields.io/github/last-commit/jiyun233/Sakiko-Document"/></a>
 </p>
 
 <a href="https://git.io/typing-svg">

@@ -15,7 +15,7 @@
 💬 **微信:** [**`HQCrystal114514`**](tencent://message/?uin=3312268214&Site=&Menu=yes)
 
 <a herf="#">
-  <img align="right" src="(https://github-readme-stats.vercel.app/api?username=jiyun233&layout=compact" />
+  <img align="right" src="(https://github-readme-stats.vercel.app/api?username=jiyun233&show_icons=true&theme=dark" />
 </a>
 
 <p>

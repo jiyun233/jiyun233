@@ -15,7 +15,7 @@
 💬 **微信:** [**`HQCrystal114514`**](tencent://message/?uin=3312268214&Site=&Menu=yes)
 
 <a herf="#">
-  <img align="right" src="(https://stats.programcx.cn/api?username=jiyun233&show_icons=true&theme=dark" />
+  <img align="right" src="https://stats.programcx.cn/api?username=jiyun233&show_icons=true&theme=dark" />
 </a>
 
 <p>

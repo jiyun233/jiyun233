@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/static/v1?label=Discord&message=ji_yun233&color=5865F2&logo=discord&logoColor=white"/>
   </a>
   <a href="https://steamcommunity.com/profiles/76561199086420886/">
-    <img src="https://img.shields.io/static/v1?label=Steam&message=极云喵&color=2a475e&logo=steam&logoColor=white"/>
+    <img src="https://img.shields.io/static/v1?label=Steam&message=jiyun233&color=2a475e&logo=steam&logoColor=white"/>
   </a>
   <a href="https://osu.ppy.sh/users/30741151">
   <img src="https://img.shields.io/static/v1?label=osu!&message=Profile&color=FF66AA&logo=osu&logoColor=white"/>

@@ -15,12 +15,12 @@
 💬 **微信:** [**`HQCrystal114514`**](tencent://message/?uin=3312268214&Site=&Menu=yes)
 
 <a herf="#">
-  <img align="right" src="(https://github-readme-stats.vercel.app/api?username=jiyun233&show_icons=true&theme=dark" />
+  <img align="right" src="(https://stats.programcx.cn/api?username=jiyun233&show_icons=true&theme=dark" />
 </a>
 
 <p>
-<a href="https://space.bilibili.com/245830927"><img src="https://img.shields.io/static/v1?label=Space&message=Bilibili&color=blue"/></a>
-<a href="https://github.com/jiyun233/Sakiko-Document"><img src="https://img.shields.io/github/last-commit/jiyun233/Sakiko-Document"/></a>
+<a href="https://space.bilibili.com/245830927"><img src="https://img.shields.io/static/v1?label=Space&message=Bilibili&color=pink"/></a>
+<a href="https://x.com/moe_neko233"><img src="https://img.shields.io/static/v1?label=Space&message=Twitter&color=blue"/></a>
 </p>
 
 <a href="https://git.io/typing-svg">

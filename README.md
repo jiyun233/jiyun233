@@ -7,8 +7,27 @@
 **😉 这里是极云的主页！**
 
 <p>
-  <a href="https://space.bilibili.com/245830927"><img src="https://img.shields.io/static/v1?label=Space&message=Bilibili&color=pink"/></a>
-  <a href="https://x.com/moe_neko233"><img src="https://img.shields.io/static/v1?label=Space&message=Twitter&color=blue"/></a>
+  <a href="https://space.bilibili.com/245830927">
+    <img src="https://img.shields.io/static/v1?label=Space&message=Bilibili&color=pink&logo=bilibili&logoColor=white"/>
+  </a>
+  <a href="https://x.com/moe_neko233">
+    <img src="https://img.shields.io/static/v1?label=Space&message=Twitter&color=blue&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.moeneko.cc">
+    <img src="https://img.shields.io/static/v1?label=Website&message=MoeNeko&color=1D88F7&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/ji_yun233">
+    <img src="https://img.shields.io/static/v1?label=Discord&message=ji_yun233&color=5865F2&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561199086420886/">
+    <img src="https://img.shields.io/static/v1?label=Steam&message=jiyun233&color=2a475e&logo=steam&logoColor=white"/>
+  </a>
+  <a href="https://osu.ppy.sh/users/30741151">
+  <img src="https://img.shields.io/static/v1?label=osu!&message=Profile&color=FF66AA&logo=osu&logoColor=white"/>
+</a>
+  <a href="https://t.me/jiyun233">
+  <img src="https://img.shields.io/static/v1?label=Telegram&message=Chat&color=2CA5E0&logo=telegram&logoColor=white"/>
+</a>
 </p>
 
 ---
